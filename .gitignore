@@ -1,0 +1,10 @@
+*/History/*
+*.PrjPCBStructure
+*.SchDocPreview
+*.PcbDocPreview
+*\__Previews
+*\History
+*/Project*Logs*for*PCB_Project
+*/Project*Outputs*for*PCB_Project
+*.PrjPcbStructure
+*~$*
